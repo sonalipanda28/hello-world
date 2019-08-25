@@ -1,0 +1,107 @@
+    1  ssh-keygen
+    2  cat /c/Users/abc/.ssh/id_rsa.pub
+    3  hostname
+    4  clear
+    5  pwd
+    6  ls
+    7  cd GIT
+    8  clear
+    9  pwd
+   10  git --version
+   11  git --help
+   12  git init --help
+   13  ls -al
+   14  git init
+   15  ls -al
+   16  clear
+   17  ls -al
+   18  cd .git
+   19  ls
+   20  cat config 
+   21  cd ..
+   22  clear
+   23  pwd
+   24  git
+   25  clear
+   26  git config --list
+   27  git config global --list
+   28  clear
+   29  git config --help
+   30  git config --global user.name "sonalipanda28"
+   31  git config --list
+   32  git config --global user.email "sonalipanda2624@gmail.com"
+   33  cd ..
+   34  ls
+   35  ls
+   36  clear
+   37  git config --list
+   38  cd GIT/.git/
+   39  ls
+   40  cat config 
+   41  cd ..
+   42  clear
+   43  git pull
+   44  git clone https://github.com/sonalipanda28/hello-world.git
+   45  ls
+   46  ls -al
+   47  cd .git/
+   48  ls
+   49  cat config 
+   50  cat FETCH_HEAD 
+   51  cat HEAD 
+   52  cd ..
+   53  git remote add origin https://github.com/sonalipanda28/hello-world.git
+   54  cd .git
+   55  cat config 
+   56  cat FETCH_HEAD 
+   57  cat HEAD
+   58  git pull
+   59  cd ..
+   60  git pull
+   61  ls
+   62  cat .git/FETCH_HEAD 
+   63  ls -al
+   64  cd hello-world/
+   65  ls -al
+   66  GIT PULL
+   67  git pull
+   68  ls
+   69  touch file1 file2 file3
+   70  ls
+   71  git status
+   72  git add .
+   73  git status
+   74  git commit -a -m "files added"
+   75  git status
+   76  git pull origin master
+   77  git staus
+   78  git status
+   79  git pull
+   80  git status
+   81  git pull
+   82  git push
+   83  git pull
+   84  git status
+   85  git fetch
+   86  git pull
+   87  clear
+   88  git --help
+   89  git log
+   90  git show bf4673e
+   91  clear
+   92  git log
+   93  git log --oneline
+   94  git shortlog
+   95  git log -1
+   96  git log -n 1
+   97  git shortlog -n 1
+   98  git shortlog -1
+   99  git log --oneline -2
+  100  git log --oneline
+  101  git diff b248e23 bf4673e
+  102  git diff bf4673e b248e23
+  103  git diff b248e23 bf4673e
+  104  git show b248e23
+  105  clear
+  106  history
+  107  history > history.txt
