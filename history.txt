@@ -50,11 +50,7 @@
    50  cat FETCH_HEAD 
    51  cat HEAD 
    52  cd ..
-   53  git remote add origin https://github.com/sonalipanda28/hello-world.git
-   54  cd .git
-   55  cat config 
-   56  cat FETCH_HEAD 
-   57  cat HEAD
+  
    58  git pull
    59  cd ..
    60  git pull
